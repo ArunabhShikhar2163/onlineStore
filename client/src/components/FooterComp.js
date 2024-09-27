@@ -10,7 +10,7 @@ class FooterComp extends React.Component {
             <p style=
             {
               {
-                backgroundColor:"#353A40",borderRadius:"7px",
+                backgroundColor:"#4d5253",borderRadius:"7px",
                 width:"120px",
                 height:"50px",
                 padding:"13px 17px"
